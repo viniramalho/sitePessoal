@@ -1,2 +1,2 @@
 # sitePessoal
-Site criado para adicionar meus certificados e praticar minhas habilidades com HTML, CSS e JavaScript
+Site criado para praticar minhas habilidades com HTML, CSS e JavaScript
